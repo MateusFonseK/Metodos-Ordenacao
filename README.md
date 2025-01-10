@@ -1,7 +1,8 @@
-# Python-AlgoritmosDeOrdenacao-1
-Este projeto consiste em uma implementação em Python de três algoritmos de ordenação com Custo Temporal Quadrático: Bubble Sort, Selection Sort e Insertion Sort. O objetivo principal é demonstrar a aplicação desses algoritmos na ordenação de arrays e comparar seus desempenhos em termos de tempo de execução.
+# Ordenação com Custo Temporal Quadrático
+- Geralmente são mais fáceis de entender e implementar.
+- Aplicação restrita em tabelas pequenas, por serem lentos.
 
-## Algoritmos de Ordenação Implementados
+## Algoritmos Implementados
 
 1. **Bubble Sort:** Um algoritmo simples que compara pares de elementos adjacentes e os troca se estiverem na ordem errada. Repete esse processo até que o array esteja ordenado.
 ![Bubble Sort](img_README/BubbleSort.png)
