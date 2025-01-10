@@ -1,7 +1,7 @@
 import random
 import time
 
-#Criar Array aleatorio
+
 def gerar_array(tamanho_array):
     array = [random.randint(0, 5 * tamanho_array) for _ in range(tamanho_array)]
     return array
